@@ -40,6 +40,7 @@ FRData.ModernPrimaryGeneList = [
     ['Ribbon', 'Uncommon', ''],
     ['Ripple', 'Uncommon', '250000 T'],
     ['Vipera', 'Uncommon', '235000 T'],
+    ['Mochlus', 'Uncommon', ''],
 
     ['Boulder', 'Limited', ''],
     ['Ground', 'Limited', ''],
@@ -86,6 +87,7 @@ FRData.ModernSecondaryGeneList = [
     ['Rosette', 'Uncommon', '185000 T'],
     ['Saturn', 'Uncommon', '160000 T'],
     ['Seraph', 'Uncommon', '125000 T'],
+    ['Riopa', 'Uncommon', ''],
 
     ['Fissure', 'Limited', ''],
     ['Foam', 'Limited', ''],
@@ -133,6 +135,7 @@ FRData.ModernTertiaryGeneList = [
     ['Spines', 'Limited', '190000 T'],
     ['Veined', 'Limited', '100000 T (Baldwin)'],
     ['Flutter', 'Limited', ''],
+    ['Polkadot', 'Limited', ''],
 
     ['Circuit', 'Rare', '1200 G'],
     ['Filigree', 'Rare', '1200 G'],
@@ -850,7 +853,8 @@ FRData.ModernBreedList = [
     ['Aether', 'Common', ['Insects', 'Plants']],
     ['Ridgeback', 'Common', ['Seafood']],
     ['Snapper', 'Common', ['Plants', 'Seafood']],
-    ['Spiral', 'Common', ['Insects', 'Meet']],
+    ['Spiral', 'Common', ['Insects', 'Meat']],
+    ['Auraboa', 'Common', ['Seafood', 'Meat']],
 
     ['Bogsneak', 'Uncommon',['Plants','Meat']],
     ['Skydancer', 'Uncommon', ['Plants', 'Insects']],
