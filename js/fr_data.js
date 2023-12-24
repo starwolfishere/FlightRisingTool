@@ -41,6 +41,7 @@ FRData.ModernPrimaryGeneList = [
     ['Ripple', 'Uncommon', '250000 T'],
     ['Vipera', 'Uncommon', '235000 T'],
     ['Mochlus', 'Uncommon', ''],
+    ['Cinder', 'Uncommon', ''],
 
     ['Boulder', 'Limited', ''],
     ['Ground', 'Limited', ''],
@@ -88,6 +89,7 @@ FRData.ModernSecondaryGeneList = [
     ['Saturn', 'Uncommon', '160000 T'],
     ['Seraph', 'Uncommon', '125000 T'],
     ['Riopa', 'Uncommon', ''],
+    ['Blaze', 'Uncommon', ''],
 
     ['Fissure', 'Limited', ''],
     ['Foam', 'Limited', ''],
@@ -136,6 +138,7 @@ FRData.ModernTertiaryGeneList = [
     ['Veined', 'Limited', '100000 T (Baldwin)'],
     ['Flutter', 'Limited', ''],
     ['Polkadot', 'Limited', ''],
+    ['Stinger', 'Limited', ''],
 
     ['Circuit', 'Rare', '1200 G'],
     ['Filigree', 'Rare', '1200 G'],
@@ -144,7 +147,8 @@ FRData.ModernTertiaryGeneList = [
     ['Koi', 'Rare', ''],
     ['Opal', 'Rare', '1200 G'],
     ['Soap', 'Rare', ''],
-    ['Stained', 'Rare', '1200 G']
+    ['Stained', 'Rare', '1200 G'],
+    ['Monarch', 'Rare', '']
 ]
 
 FRData.GaolerPrimaryGeneList = [
